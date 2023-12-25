@@ -1,2 +1,2 @@
-# dibyajeet125-Python-Rock-Paper-Scissors-Game
+# Python-Rock-Paper-Scissors-Game
 Rock, Paper, Scissors game using object-oriented approach
